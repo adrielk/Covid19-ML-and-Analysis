@@ -7,10 +7,7 @@ visualizations of daily cases on specific days of the week.
 In addition, applies nonlinear regression to forecast future Covid-19 cases.
 
 ## To do:
-  - More tuning of ML model
-  - Try R2 Adjusted to measure accuracy
-  - Implement weighted pin loss to measure ML model accuracy
-  - Map visualization
+  - Map visualization (deal with super annoying dependencies to download)
   
 ## Future:
   - Sentiment analysis over time
