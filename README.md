@@ -8,6 +8,7 @@ In addition, applies nonlinear regression to forecast future Covid-19 cases.
 
 ## To do:
   - More tuning of ML model
+  - Try R2 Adjusted to measure accuracy
   - Implement weighted pin loss to measure ML model accuracy
   - Map visualization
   
