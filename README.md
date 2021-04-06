@@ -6,4 +6,4 @@ Includes preprocessing steps, visualizations of total confirmed cases over time 
 visualizations of daily cases on specific days of the week. In addition, there is a separate notebook of sentiment analysis of Covid-19 related tweets.
 
 
-Check out the [presentation](https://docs.google.com/presentation/d/1_LFEtgZS87ksLa_7ZpoXTVOpEUQzky-52XlcFQfCZgE/edit?usp=sharing)
+Check out the [presentation](https://docs.google.com/presentation/d/1_LFEtgZS87ksLa_7ZpoXTVOpEUQzky-52XlcFQfCZgE/edit?usp=sharing) detailing my sentiment analysis of Covid-19 related tweets!
